@@ -1,0 +1,10 @@
+@UrlShortenerApi_HostAddress = https://localhost:7284
+
+GET {{UrlShortenerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{UrlShortenerApi_HostAddress}}/shorten
+
+###

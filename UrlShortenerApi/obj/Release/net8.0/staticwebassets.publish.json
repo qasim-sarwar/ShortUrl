@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6T+csowseCr59ysdRbBBhwtNZa+sw1fgSSHwkppiCxA=",
+  "Source": "UrlShortenerApi",
+  "BasePath": "_content/UrlShortenerApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
